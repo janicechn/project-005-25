@@ -3,7 +3,7 @@
 # User’s Knowledge Level Based on Exam Performances
 
 #### DSCI100 project-005-25 Group Project Proposal
-##### *By Janice Chan, Sarah Hong, Samreen Kaur, Sota Uehara*
+##### *By Janice Chan, Sarah Hong, Samreen Kaur, and Sota Uehara*
 
 Exams are often used to evaluate one's understanding of content. With knowledge levels "very low," "low," "middle," and "high" classified by Hamdi et al. (2009), could one's exam performance truly reflect their knowledge level? People may have varying exam performances when being tested on goal objectives and related materials.
 
